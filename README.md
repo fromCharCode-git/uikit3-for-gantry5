@@ -8,8 +8,8 @@ This a small collection of self-created Gantry Particles for the different compo
 **NOTE:** Only tested with [Joomla! CMS](https://www.joomla.org/) so far! But it should work for [Wordpress CMS](https://wordpress.com) and [Grav CMS](https://getgrav.org/) as well...
 
 **Latest tested versions:** *(No backwards compatibility to UIKit v2 and Gantry 4!)*
- + Gantry: 5.4.22 
- + UIKit: v3.0.0-beta.40
+ + Gantry: 5.4.36
+ + UIKit: v3.5.9
 
 ## Included Particles & Atoms
 ### UIKit Atom (mandatory for using the UIKit Particles below!)
